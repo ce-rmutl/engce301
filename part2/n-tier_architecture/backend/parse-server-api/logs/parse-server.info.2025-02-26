@@ -1,0 +1,37 @@
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T03:53:56.639Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T03:53:56.694Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T03:54:24.180Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T03:54:24.233Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T04:00:14.378Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T04:00:14.428Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T04:00:23.366Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T04:00:23.404Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T04:07:46.158Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T04:07:46.207Z"}
+{"context":{},"functionName":"hello","headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br","cache-control":"no-cache","connection":"keep-alive","content-length":"0","content-type":"application/json","host":"172.27.87.8:4000","postman-token":"502dd1cf-882a-4e27-89a1-7d9998e38ee9","user-agent":"PostmanRuntime/7.43.0","x-parse-application-id":"wallboardapi","x-parse-master-key":"wallboardapi"},"ip":"::ffff:172.27.80.1","level":"info","log":{"appId":"wallboardapi","options":{"jsonLogs":false,"logsFolder":"./logs/","verbose":false}},"master":true,"params":{},"timestamp":"2025-02-26T04:11:38.356Z"}
+{"functionName":"hello","level":"info","message":"Ran cloud function hello for user undefined with:\n  Input: {}\n  Result: \"Hi from Parse Server\"","params":{},"timestamp":"2025-02-26T04:11:38.358Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T04:30:14.123Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T04:30:14.169Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T04:30:19.253Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T04:30:19.292Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T04:31:55.971Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T04:31:56.033Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T04:35:46.196Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T04:35:46.243Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T04:35:48.444Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T04:35:48.491Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T04:36:20.742Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T04:36:20.781Z"}
+{"functionName":"OnlineAgentByAgentCode","level":"info","message":"Ran cloud function OnlineAgentByAgentCode for user undefined with:\n  Input: {\"AgentCode\":\"1234\"}\n  Result: \"1\"","params":{"AgentCode":"1234"},"timestamp":"2025-02-26T04:45:01.703Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T04:46:39.307Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T04:46:39.349Z"}
+{"functionName":"OnlineAgentByAgentCode","level":"info","message":"Ran cloud function OnlineAgentByAgentCode for user undefined with:\n  Input: {\"AgentCode\":\"1234\"}\n  Result: \"9\"","params":{"AgentCode":"1234"},"timestamp":"2025-02-26T04:47:11.865Z"}
+{"functionName":"OnlineAgentByAgentCode","level":"info","message":"Ran cloud function OnlineAgentByAgentCode for user undefined with:\n  Input: {\"AgentCode\":\"1234\"}\n  Result: \"9\"","params":{"AgentCode":"1234"},"timestamp":"2025-02-26T04:59:04.106Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T05:00:51.323Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T05:00:51.366Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T05:03:51.658Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T05:03:51.756Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-02-26T05:04:00.056Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-02-26T05:04:00.110Z"}
+{"functionName":"postOnlineAgentListByTeam","level":"info","message":"Ran cloud function postOnlineAgentListByTeam for user undefined with:\n  Input: {\"AgentCode\":\"1234\",\"AgentName\":\"Test Agent\",\"Team\":\"0\",\"AgentStatus\":\"1\",\"AgentStatusCode\":\"1\",\"IsLogin\":\"1\"}\n  Result: 0","params":{"AgentCode":"1234","AgentName":"Test Agent","AgentStatus":"1","AgentStatusCode":"1","IsLogin":"1","Team":"0"},"timestamp":"2025-02-26T05:11:43.172Z"}
+{"functionName":"postOnlineAgentListByTeam","level":"info","message":"Ran cloud function postOnlineAgentListByTeam for user undefined with:\n  Input: {\"AgentCode\":\"1234\",\"AgentName\":\"Test Agent\",\"Team\":\"0\",\"AgentStatus\":\"1\",\"AgentStatusCode\":\"1\",\"IsLogin\":\"0\"}\n  Result: 0","params":{"AgentCode":"1234","AgentName":"Test Agent","AgentStatus":"1","AgentStatusCode":"1","IsLogin":"0","Team":"0"},"timestamp":"2025-02-26T05:14:22.512Z"}
